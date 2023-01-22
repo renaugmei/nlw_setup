@@ -8,7 +8,7 @@ A Habit Tracker app developed using html, css and javascript.
 
 ## Getting Started
 
-- [Visite o site do projeto] (https://github.com/renaugmei/nlw_setup)
+- [Visite o site do projeto] (https://renaugmei.github.io/nlw_setup/)
 
 ## Acknowledgments
 
